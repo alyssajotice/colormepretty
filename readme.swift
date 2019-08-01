@@ -12,10 +12,6 @@
  
  No third party tools are used, compile as normal.
  
- I cloned to different locations on my computer, and everything worked.
- 
- I had an unknown error when I tried to integrate on the server.
- 
  */
 
 import Foundation
